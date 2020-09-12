@@ -1,9 +1,9 @@
 [{
     "projectUrl": "https://discord.gg/zzzzzzzzzz",
     "provider": "Placebo-E",
-    "name": "Mahogany",
-    "description": "Mahogany",
-    "id": "javaexample",
+    "name": "Java example plugin",
+    "description": "Java example plugin",
+    "id": "Java example plugin",
     "releases": [{
         "date": "2020-09-12",
         "sha512sum": "3B54C9C5DFCF8D73B105D7C9D31D00466A45ACA66E8ED820EBF81E0D641E0D96202C33E3403198412827C406F20D45A998A1BD26459F63A6B928E57843018D42",
