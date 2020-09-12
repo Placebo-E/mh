@@ -1,0 +1,14 @@
+[{
+    "projectUrl": "https://discord.gg/zzzzzzzzzz",
+    "provider": "Placebo-E",
+    "name": "Mahogany",
+    "description": "Mahogany",
+    "id": "javaexample",
+    "releases": [{
+        "date": "2020-03-14",
+        "sha512sum": "95B805BE1E36DF0007C1815CDE0357850A9AB03CE3F83ED06296175845F67B540572554648C23C634D04E3011E6C7AFB35695099D58172D09E5720C9695C2B5B",
+        "version": "0.0.1",
+        "url": "https://github.com/Placebo-E/mh/blob/master/release/javaexample-0.0.1.jar?raw=true",
+        "requires": "0.0.1"
+    }]
+}]
