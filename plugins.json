@@ -6,7 +6,7 @@
     "id": "javaexample",
     "releases": [{
         "date": "2020-09-12",
-        "sha512sum": "3b54c9c5dfcf8d73b105d7c9d31d00466a45aca66e8ed820ebf81e0d641e0d96202c33e3403198412827c406f20d45a998a1bd26459f63a6b928e57843018d42",
+        "MD5": "A74D516166FA4CDEB4829790CBE3F17F",
         "version": "0.0.1",
         "url": "https://github.com/Placebo-E/mh/blob/master/release/javaexample-0.0.1.jar?raw=true",
         "requires": "0.0.1"
